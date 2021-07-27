@@ -1,0 +1,18 @@
+{
+  "name": "yesphoto-server",
+  "version": "1.0.0",
+  "description": "사진첩 웹앱",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "hwangsanghan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
